@@ -1,0 +1,801 @@
+{
+  "title": "Hur ska vi hantera buggar i vår process?",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "10": {
+      "title": "De kända buggarna prioriteras in i backlogen tillsammans med andra saker som ska göras",
+      "id": 5,
+      "ideas": {
+        "6": {
+          "title": "Fördelar",
+          "id": 71,
+          "ideas": {
+            "1": {
+              "title": "Lite kontextswitching",
+              "id": 64,
+              "attr": {
+                "style": {
+                  "background": "#99cc00"
+                }
+              }
+            },
+            "4": {
+              "title": "Tydliga releasenotes",
+              "id": 61,
+              "attr": {
+                "style": {
+                  "background": "#99cc00"
+                }
+              }
+            },
+            "5": {
+              "title": "PO - kräver engagerad PO",
+              "id": 92,
+              "ideas": {
+                "1": {
+                  "title": "PO får god insikt i vad som fungerar och inte",
+                  "id": 62,
+                  "attr": {
+                    "style": {
+                      "background": "#E0E0E0"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "Tvingar PO att vara aktiv",
+                  "id": 63,
+                  "attr": {
+                    "style": {
+                      "background": "#E0E0E0"
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "style": {
+                  "background": "#99cc00"
+                },
+                "collapsed": true
+              }
+            },
+            "0.5": {
+              "title": "Prioritering - de viktigaste sakerna först",
+              "id": 58,
+              "ideas": {
+                "1": {
+                  "title": "Gladare stakeholders",
+                  "id": 59,
+                  "attr": {
+                    "style": {
+                      "background": "#E0E0E0"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "Jämnt flöde",
+                  "id": 60,
+                  "attr": {
+                    "style": {
+                      "background": "#E0E0E0"
+                    }
+                  }
+                },
+                "3": {
+                  "title": "Rätt prioritering",
+                  "id": 67,
+                  "attr": {
+                    "style": {
+                      "background": "#E0E0E0"
+                    }
+                  }
+                },
+                "4": {
+                  "title": "Viktigaste sakerna först",
+                  "id": 68,
+                  "attr": {
+                    "style": {
+                      "background": "#E0E0E0"
+                    }
+                  }
+                },
+                "5": {
+                  "title": "Allt prioriteras mot varandra",
+                  "id": 69,
+                  "attr": {
+                    "style": {
+                      "background": "#E0E0E0"
+                    }
+                  }
+                },
+                "6": {
+                  "title": "Tydlig prioritering",
+                  "id": 70,
+                  "attr": {
+                    "style": {
+                      "background": "#E0E0E0"
+                    }
+                  }
+                },
+                "7": {
+                  "title": "Inget är viktigare än annat, kommunism bland aktiviteter bugg och feature",
+                  "id": 65,
+                  "attr": {
+                    "style": {
+                      "background": "#E0E0E0"
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "style": {
+                  "background": "#99cc00"
+                },
+                "collapsed": true
+              }
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#008000"
+            }
+          }
+        },
+        "7": {
+          "title": "Nackdelar",
+          "id": 72,
+          "ideas": {
+            "7": {
+              "title": "Miljötänk, storykort",
+              "id": 80,
+              "attr": {
+                "style": {
+                  "background": "#ffcc99"
+                }
+              }
+            },
+            "15": {
+              "title": "PO - kräver engagerad PO",
+              "id": 88,
+              "ideas": {
+                "1": {
+                  "title": "Kräver mer av PO",
+                  "id": 86,
+                  "attr": {
+                    "style": {
+                      "background": "#E0E0E0"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "Om man inte har en aktiv PO så går det mycket tid åt förklara",
+                  "id": 85,
+                  "attr": {
+                    "style": {
+                      "background": "#E0E0E0"
+                    }
+                  }
+                },
+                "3": {
+                  "title": "PO måste vara på hugget",
+                  "id": 84,
+                  "attr": {
+                    "style": {
+                      "background": "#E0E0E0"
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "style": {
+                  "background": "#ffcc99"
+                },
+                "collapsed": true
+              }
+            },
+            "16": {
+              "title": "Tar tid - att få buggar fixade och prioritera + beskriva buggar",
+              "id": 89,
+              "ideas": {
+                "1": {
+                  "title": "Tar tid (speca, prioritera, planera, hålla inventarie)",
+                  "id": 87,
+                  "attr": {
+                    "style": {
+                      "background": "#E0E0E0"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "Kan ta längre tid att få buggar fixade",
+                  "id": 76,
+                  "attr": {
+                    "style": {
+                      "background": "#E0E0E0"
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "style": {
+                  "background": "#ffcc99"
+                },
+                "collapsed": true
+              }
+            },
+            "17": {
+              "title": "Processen - små buggstories? ",
+              "id": 91,
+              "ideas": {
+                "1": {
+                  "title": "Svårare att få givande storlek och sammanhang på buggstories",
+                  "id": 83,
+                  "attr": {
+                    "style": {
+                      "background": "#E0E0E0"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "Känns mer \"scrum:igt\"",
+                  "id": 82,
+                  "attr": {
+                    "style": {
+                      "background": "#E0E0E0"
+                    }
+                  }
+                },
+                "3": {
+                  "title": "Omtag i iterationer, för lång tid?",
+                  "id": 81,
+                  "attr": {
+                    "style": {
+                      "background": "#E0E0E0"
+                    }
+                  }
+                },
+                "4": {
+                  "title": "Aldrig sinande vattenfall av stories, viktiga och mindre viktiga",
+                  "id": 78,
+                  "attr": {
+                    "style": {
+                      "background": "#E0E0E0"
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "style": {
+                  "background": "#ffcc99"
+                },
+                "collapsed": true
+              }
+            },
+            "18": {
+              "title": "Risk för broken window",
+              "id": 93,
+              "ideas": {
+                "1": {
+                  "title": "\"Det är OK att ha buggar\" - mentalitet",
+                  "id": 75,
+                  "attr": {
+                    "style": {
+                      "background": "#E0E0E0"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "Risk att man slarvar eller skjuter upp små saker för att snabbt få ut ett kort",
+                  "id": 74,
+                  "attr": {
+                    "style": {
+                      "background": "#E0E0E0"
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "style": {
+                  "background": "#ffcc99"
+                },
+                "collapsed": true
+              }
+            },
+            "7.5": {
+              "title": "Kvalitet - det kommer att finnas kända buggar ",
+              "id": 90,
+              "ideas": {
+                "3": {
+                  "title": "Vissa buggar blir aldrig fixade",
+                  "id": 79,
+                  "attr": {
+                    "style": {
+                      "background": "#E0E0E0"
+                    }
+                  }
+                },
+                "4": {
+                  "title": "Längre tid mellan utv och fix",
+                  "id": 77,
+                  "attr": {
+                    "style": {
+                      "background": "#E0E0E0"
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "style": {
+                  "background": "#ffcc99"
+                },
+                "collapsed": true
+              }
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#ff9900"
+            }
+          }
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#33cccc"
+        }
+      }
+    },
+    "-5": {
+      "title": "Innan en ny story kommer in på tavlan ska de kända buggarna fixas",
+      "id": 2,
+      "ideas": {
+        "1": {
+          "title": "Fördelar",
+          "id": 3,
+          "ideas": {
+            "6": {
+              "title": "Kanske inte lika stor risk att de glöms bort under utveckling",
+              "id": 11,
+              "attr": {
+                "style": {
+                  "background": "#99cc00"
+                }
+              }
+            },
+            "9": {
+              "title": "Mot broken window",
+              "id": 14,
+              "attr": {
+                "style": {
+                  "background": "#99cc00"
+                }
+              }
+            },
+            "10": {
+              "title": "Bra för moralen",
+              "id": 15,
+              "attr": {
+                "style": {
+                  "background": "#99cc00"
+                }
+              }
+            },
+            "17": {
+              "title": "Kvalitetfokus - kvaliten på de features som är ute är hög",
+              "id": 28,
+              "ideas": {
+                "1": {
+                  "title": "Säkra på att de features som finns är helt fungerande",
+                  "id": 17,
+                  "attr": {
+                    "style": {
+                      "background": "#E0E0E0"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "Bra kvalitet för användaren?",
+                  "id": 18,
+                  "attr": {
+                    "style": {
+                      "background": "#E0E0E0"
+                    }
+                  }
+                },
+                "3": {
+                  "title": "Kort/stories blir \"klarare\"",
+                  "id": 16,
+                  "attr": {
+                    "style": {
+                      "background": "#E0E0E0"
+                    }
+                  }
+                },
+                "4": {
+                  "title": "Kvalitetsfokus (Jobbigt = testa bättre?)",
+                  "id": 10,
+                  "attr": {
+                    "style": {
+                      "background": "#E0E0E0"
+                    }
+                  }
+                },
+                "5": {
+                  "title": "Incitament för att/mer CI + test",
+                  "id": 9,
+                  "attr": {
+                    "style": {
+                      "background": "#E0E0E0"
+                    }
+                  }
+                },
+                "6": {
+                  "title": "Stabilare kod/applikation",
+                  "id": 7,
+                  "attr": {
+                    "style": {
+                      "background": "#E0E0E0"
+                    }
+                  }
+                },
+                "7": {
+                  "title": "Mindre ripple effects från existerande buggar",
+                  "id": 6,
+                  "attr": {
+                    "style": {
+                      "background": "#E0E0E0"
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "style": {
+                  "background": "#99cc00"
+                },
+                "collapsed": true
+              }
+            },
+            "18": {
+              "title": "Kortlivade buggar - färskt i minnet när buggrättning kommer nära inpå utv",
+              "id": 27,
+              "ideas": {
+                "1": {
+                  "title": "Kortlivade buggar",
+                  "id": 25,
+                  "attr": {
+                    "style": {
+                      "background": "#E0E0E0"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "Färre saker som glöms bort",
+                  "id": 22,
+                  "attr": {
+                    "style": {
+                      "background": "#E0E0E0"
+                    }
+                  }
+                },
+                "3": {
+                  "title": "Rättar det när man har det färskt i minnet",
+                  "id": 23,
+                  "attr": {
+                    "style": {
+                      "background": "#E0E0E0"
+                    }
+                  }
+                },
+                "4": {
+                  "title": "Kortare tid mellan utv och fix?",
+                  "id": 24,
+                  "attr": {
+                    "style": {
+                      "background": "#E0E0E0"
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "style": {
+                  "background": "#99cc00"
+                },
+                "collapsed": true
+              }
+            },
+            "19": {
+              "title": "Samarbete - lär sig av varandra",
+              "id": 26,
+              "ideas": {
+                "1": {
+                  "title": "Man sätter sig in i vad andra gjort",
+                  "id": 13,
+                  "attr": {
+                    "style": {
+                      "background": "#E0E0E0"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "Mer samarbete inom teamet",
+                  "id": 12,
+                  "attr": {
+                    "style": {
+                      "background": "#E0E0E0"
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "style": {
+                  "background": "#99cc00"
+                },
+                "collapsed": true
+              }
+            },
+            "20": {
+              "title": "Process - enkel process",
+              "id": 29,
+              "ideas": {
+                "1": {
+                  "title": "Tydliga riktlinjer för hur buggar hanteras i processen",
+                  "id": 21,
+                  "attr": {
+                    "style": {
+                      "background": "#E0E0E0"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "Tvingar diskussion kring spec/req",
+                  "id": 19,
+                  "attr": {
+                    "style": {
+                      "background": "#E0E0E0"
+                    }
+                  }
+                },
+                "3": {
+                  "title": "Självprioriterande - synligt",
+                  "id": 20,
+                  "attr": {
+                    "style": {
+                      "background": "#E0E0E0"
+                    }
+                  }
+                },
+                "4": {
+                  "title": "Teamet svarar snabbt",
+                  "id": 8,
+                  "attr": {
+                    "style": {
+                      "background": "#E0E0E0"
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "style": {
+                  "background": "#99cc00"
+                },
+                "collapsed": true
+              }
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#008000"
+            }
+          }
+        },
+        "2": {
+          "title": "Nackdelar",
+          "id": 4,
+          "ideas": {
+            "2": {
+              "title": "Risk för att kort växer och tar längre tid",
+              "id": 35,
+              "ideas": {
+                "1": {
+                  "title": "Tar längre tid att utveckla",
+                  "id": 36,
+                  "attr": {
+                    "style": {
+                      "background": "#E0E0E0"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "Kan ta längre tid att få ut saker",
+                  "id": 37,
+                  "attr": {
+                    "style": {
+                      "background": "#E0E0E0"
+                    }
+                  }
+                },
+                "3": {
+                  "title": "Risk för att man gör mer än fixa buggar",
+                  "id": 38,
+                  "attr": {
+                    "style": {
+                      "background": "#E0E0E0"
+                    }
+                  }
+                },
+                "4": {
+                  "title": "Finns risk att korten växer",
+                  "id": 39,
+                  "attr": {
+                    "style": {
+                      "background": "#E0E0E0"
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "style": {
+                  "background": "#ffcc99"
+                },
+                "collapsed": true
+              }
+            },
+            "3": {
+              "title": "Buggperson",
+              "id": 41,
+              "ideas": {
+                "1": {
+                  "title": "Får inte göra alla roliga saker nu!",
+                  "id": 43,
+                  "attr": {
+                    "style": {
+                      "background": "#E0E0E0"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "Samma person tar buggar",
+                  "id": 44,
+                  "attr": {
+                    "style": {
+                      "background": "#E0E0E0"
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "position": [
+                  92,
+                  -95.5,
+                  1
+                ],
+                "style": {
+                  "background": "#ffcc99"
+                },
+                "collapsed": true
+              }
+            },
+            "5": {
+              "title": "Prioritering - är buggarna verkligen viktigast just nu?",
+              "id": 50,
+              "ideas": {
+                "1": {
+                  "title": "Automatiskt är buggar viktigare än allt annat",
+                  "id": 52,
+                  "attr": {
+                    "style": {
+                      "background": "#E0E0E0"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "Skapar inte nödvändigtvis värde",
+                  "id": 53,
+                  "attr": {
+                    "style": {
+                      "background": "#E0E0E0"
+                    }
+                  }
+                },
+                "3": {
+                  "title": "Prioritering blir skev ?",
+                  "id": 54,
+                  "attr": {
+                    "style": {
+                      "background": "#E0E0E0"
+                    }
+                  }
+                },
+                "4": {
+                  "title": "Helhetsprio minskar",
+                  "id": 55,
+                  "attr": {
+                    "style": {
+                      "background": "#E0E0E0"
+                    }
+                  }
+                },
+                "5": {
+                  "title": "Teamet tappar fokus på vad som är viktigt",
+                  "id": 48,
+                  "attr": {
+                    "style": {
+                      "background": "#E0E0E0"
+                    }
+                  }
+                },
+                "6": {
+                  "title": "Mindre funktionalitet per tidsenhet",
+                  "id": 47,
+                  "attr": {
+                    "style": {
+                      "background": "#E0E0E0"
+                    }
+                  }
+                },
+                "7": {
+                  "title": "Bryter upplevt flöde/flow",
+                  "id": 33,
+                  "attr": {
+                    "style": {
+                      "background": "#E0E0E0"
+                    }
+                  }
+                },
+                "8": {
+                  "title": "Aldrig klart",
+                  "id": 34,
+                  "attr": {
+                    "style": {
+                      "background": "#E0E0E0"
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "style": {
+                  "background": "#ffcc99"
+                },
+                "collapsed": true
+              }
+            },
+            "6": {
+              "title": "Enklare att rapportera designändringar som buggar",
+              "id": 56,
+              "attr": {
+                "style": {
+                  "background": "#ffcc99"
+                }
+              }
+            },
+            "7": {
+              "title": "Avsaknad av PO kan skapa många små buggar batchvis",
+              "id": 57,
+              "attr": {
+                "style": {
+                  "background": "#ffcc99"
+                }
+              }
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#ff9900"
+            }
+          }
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#33cccc"
+        }
+      }
+    }
+  },
+  "links": [],
+  "attr": {
+    "style": {
+      "background": "#808080"
+    }
+  }
+}
